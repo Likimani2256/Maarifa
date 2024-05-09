@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Magnita';
+    font-weight: normal;
+    src: url('fonts/Magnita.eot');
+    src: url('fonts/Magnita%EF%B9%96.eot#iefix') format('embedded-opentype'),
+         url('fonts/Magnita.woff2') format('woff2'),
+         url('fonts/Magnita.woff') format('woff'),
+         url('https://html.creativegigstf.com/babun/babun/fonts/Magnita/fonts/Magnita.ttf')  format('truetype'),
+         url('fonts/Magnita.svg#Magnita') format('svg');
+}
